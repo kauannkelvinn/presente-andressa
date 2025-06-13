@@ -97,11 +97,10 @@ export default function App() {
           </p>
 
           <p style={styles.texto}>
-            3 coisas que eu faria se estivesse contigo agora... <br />
+            3 coisas que eu faria se estivesse contigo agora... (só baitolage) <br />
             1. Te colocaria no colo e ficava em silêncio só sentindo tua pele <br />
             2. Trocava teu fone por minha voz sussurrando <br />
             3. Te roubava um sorriso com um improviso só nosso 😏<br />
-            4. Só baitolage
           </p>
 
           <div style={styles.spotifyWrapper}>
